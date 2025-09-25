@@ -19,9 +19,15 @@
 
 ## 📌 Featured Projects  
 
-🔹
-🔹 
-🔹
+🔹 Stock Prediction Web App
+A web application that fetches live stock data from Yahoo Finance and applies a time series predictive model to forecast prices.
+
+Interactive interface with dropdown stock selection
+
+Configurable stock list via config file
+
+Multi-stock comparison chart for side-by-side analysis
+👉 [View Repository](https://github.com/Fuzzlefish/analytics-dashboard)
 
 ---
 
